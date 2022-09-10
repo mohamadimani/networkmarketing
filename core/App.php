@@ -18,14 +18,14 @@ class App
     function __construct()
     {
 
-//   ===   check nad filter and set url   ===
+        //   ===   check nad filter and set url   ===
         if (!empty($_GET['url'])) {
             $this->url = $this->filter($_GET['url']);
         } else {
             $this->url = $this->filter('index');
         }
 
-//   ===   set controller   ===
+        //   ===   set controller   ===
         if (!empty($this->url[0])) {
             $this->controller = $this->url[0];
             unset($this->url[0]);
@@ -33,7 +33,7 @@ class App
             $this->controller = 'index';
         }
 
-//   ===   set method   ===
+        //   ===   set method   ===
         if (!empty($this->url[1])) {
             $this->method = $this->url[1];
             unset($this->url[1]);
@@ -41,13 +41,13 @@ class App
             $this->method = 'index';
         }
 
-//   ===   pour old url array info  to param array for set again indexes   ===
+        //   ===   pour old url array info  to param array for set again indexes   ===
         if (!empty($this->url)) {
             $this->param = array_values($this->url);
             unset($this->url);
         }
 
-//   =======   require controller  =======
+        //   =======   require controller  =======
 
         $controller_url = "controllers/$this->controller.php";
         if (file_exists($controller_url)) {
@@ -88,10 +88,7 @@ class App
             } else {
                 echo $_SESSION['errors'];
             }
-
         }
-
-
     }
 
     function filter($data)
@@ -101,6 +98,4 @@ class App
         $data = explode('/', $data);
         return $data;
     }
-
-
 }
