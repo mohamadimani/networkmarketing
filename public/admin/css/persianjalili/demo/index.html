@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html dir="rtl">
+<head>
+    <meta charset="utf-8">
+
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="../style/kamadatepicker.css"/>
+    <script src="../src/kamadatepicker.js"></script>
+
+
+</head>
+<body>
+
+
+
+            <input type="text" id="date2">
+
+
+<script>
+
+
+    var customOptions = {
+        placeholder: "روز / ماه / سال"
+        , twodigit: false
+        , closeAfterSelect: false
+        , nextButtonIcon: "fa fa-arrow-circle-right"
+        , previousButtonIcon: "fa fa-arrow-circle-left"
+        , buttonsColor: "blue"
+        , forceFarsiDigits: true
+        , markToday: true
+        , markHolidays: true
+        , highlightSelectedDay: true
+        , sync: true
+        , gotoToday: true
+    }
+    kamaDatepicker('date2', customOptions);
+
+
+    // for testing sync functionallity
+    $("#date2").val("1311/10/01");
+</script>
+</body>
+
+</html>

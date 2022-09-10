@@ -1,0 +1,8 @@
+/* -------------------------------FONT------------------------------------ */
+           @font-face {
+    font-family: 'iransans';
+    src: url('../fonts/IRANSansWeb.ttf') format('eot'), /* IE6â€“8 */
+    url('../fonts/IRANSansWeb.woff') format('woff'), /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/IRANSansWeb.ttf') format('truetype');
+    /* Saf3â€”5, Chrome4+, FF3.5, Opera 10+ */
+}

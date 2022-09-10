@@ -1,0 +1,44 @@
+@media print {
+    span.glyphicon-print {
+        display: none;
+    }
+
+    .fullprint {
+        width: 100% !important;
+        position: static;
+    }
+
+    .seventy_print {
+        width: 70% !important;
+        position: static;
+    }
+
+    .fifty_print {
+        width: 50% !important;
+        position: static;
+    }
+
+    .forty_print {
+        width: 40% !important;
+        position: static;
+    }
+
+    .therty_print {
+        width: 30% !important;
+        position: static;
+    }
+
+    .sixty_print {
+        width: 60% !important;
+        position: static;
+    }
+
+    .title-factor {
+        width: 100% !important;
+        position: static;
+        text-align: center !important;
+    }
+    .print_button{
+        display: none!important;
+    }
+}

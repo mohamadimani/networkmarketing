@@ -1,0 +1,12 @@
+@media print {
+    span.glyphicon-print {
+        display: none;
+    }
+
+    .fullprint {
+        width: 100% !important;
+        float: right!important;
+        position: static;
+    }
+
+}

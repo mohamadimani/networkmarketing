@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fabe114f-dddd-49b9-93c0-0c2e40a62817" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="n#save_idea_employ#0;n#index#0;n#!!top" />
+                <element signature="n#seen_page#0;n#index#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/model_index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="n#seen_page#0;n#model_index#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/web/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#form#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#0;n#section#0;n#section#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/model_api_product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="51" column="44" lean-forward="true" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+              <folding>
+                <element signature="n#__construct#0;n#model_api_product#0;n#!!top" />
+                <element signature="n#get_product_list#0;n#model_api_product#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/web/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/models/model_admin_video.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/web/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/api_user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="116" selection-start-line="116" selection-end-line="116" />
+              <folding>
+                <element signature="n#android_register#0;n#api_user#0;n#!!top" />
+                <element signature="n#android_get_token#0;n#api_user#0;n#!!top" />
+                <element signature="n#android_get_user_info#0;n#api_user#0;n#!!top" />
+                <element signature="n#android_user_info#0;n#api_user#0;n#!!top" />
+                <element signature="n#android_user_login#0;n#api_user#0;n#!!top" />
+                <element signature="n#android_forget_password#0;n#api_user#0;n#!!top" />
+                <element signature="n#android_reset_password#0;n#api_user#0;n#!!top" />
+                <element signature="n#Update_Info#0;n#api_user#0;n#!!top" />
+                <element signature="n#api_logout#0;n#api_user#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/model_api_user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="140" column="37" selection-start-line="140" selection-start-column="37" selection-end-line="140" selection-end-column="37" />
+              <folding>
+                <element signature="n#__construct#0;n#model_api_user#0;n#!!top" />
+                <element signature="e#209#250#0#PHP" />
+                <element signature="n#android_register#0;n#model_api_user#0;n#!!top" />
+                <element signature="n#android_get_token#0;n#model_api_user#0;n#!!top" />
+                <element signature="n#android_get_user_info#0;n#model_api_user#0;n#!!top" />
+                <element signature="n#android_user_login#0;n#model_api_user#0;n#!!top" />
+                <element signature="e#6382#8159#0#PHP" />
+                <element signature="n#android_forget_password#0;n#model_api_user#0;n#!!top" />
+                <element signature="n#android_reset_password#0;n#model_api_user#0;n#!!top" />
+                <element signature="n#set_logout_log#0;n#model_api_user#0;n#!!top" />
+                <element signature="n#check_login#0;n#model_api_user#0;n#!!top" />
+                <element signature="n#android_register_users#0;n#model_api_user#0;n#!!top" />
+                <element signature="n#getHttpStatusMessage#0;n#model_api_user#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>API</find>
+      <find>sms</find>
+      <find>users</find>
+      <find>android_user_info</find>
+      <find>wrong_token</find>
+      <find>section</find>
+      <find>android_get_user_info</find>
+      <find>&gt;</find>
+      <find>api</find>
+      <find>error</find>
+      <find>conn</find>
+      <find>null_token</find>
+      <find>250px</find>
+      <find>.bglog</find>
+      <find>London</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>div</replace>
+      <replace>=&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../tarun_api/core/model.php" />
+        <option value="$PROJECT_DIR$/../tarun_api/models/model_admin_users_list.php" />
+        <option value="$PROJECT_DIR$/core/config.php" />
+        <option value="$PROJECT_DIR$/core/db_info.ini.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/controllers/user_login.php" />
+        <option value="$PROJECT_DIR$/models/model_user_login.php" />
+        <option value="$PROJECT_DIR$/views/web/blog.php" />
+        <option value="$PROJECT_DIR$/network-marketing/index1.html" />
+        <option value="$PROJECT_DIR$/network-marketing/product.html" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/core/model.php" />
+        <option value="$PROJECT_DIR$/network-marketing-final/loginpage.html" />
+        <option value="$PROJECT_DIR$/controllers/index.php" />
+        <option value="$PROJECT_DIR$/public/web/assets/css/font.css" />
+        <option value="$PROJECT_DIR$/views/web/header.php" />
+        <option value="$PROJECT_DIR$/public/web/assets/css/network-styles.css" />
+        <option value="$PROJECT_DIR$/../test/test isset.php" />
+        <option value="$PROJECT_DIR$/controllers/api_user.php" />
+        <option value="$PROJECT_DIR$/models/model_api_user.php" />
+        <option value="$PROJECT_DIR$/controllers/api_product.php" />
+        <option value="$PROJECT_DIR$/models/model_index.php" />
+        <option value="$PROJECT_DIR$/views/web/login.php" />
+        <option value="$PROJECT_DIR$/models/model_api_product.php" />
+        <option value="$PROJECT_DIR$/views/web/footer.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="641" />
+    <option name="height" value="740" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="network_marketing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="network_marketing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="network_marketing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="network_marketing" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="network_marketing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="network_marketing" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="network_marketing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="network_marketing" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="network_marketing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="network_marketing" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/models" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\programfile\htdocs\network_marketing\models" />
+      <recent name="D:\programfile\htdocs\network_marketing\controllers" />
+      <recent name="D:\programfile\htdocs\network_marketing" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fabe114f-dddd-49b9-93c0-0c2e40a62817" name="Default Changelist" comment="" />
+      <created>1563248761741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563248761741</updated>
+      <workItem from="1563248763084" duration="15450000" />
+      <workItem from="1563337492236" duration="16518000" />
+      <workItem from="1563421522967" duration="4641000" />
+      <workItem from="1563435571859" duration="4642000" />
+      <workItem from="1563906468708" duration="12214000" />
+      <workItem from="1563985345559" duration="12501000" />
+      <workItem from="1564016633860" duration="1498000" />
+      <workItem from="1564051664833" duration="1298000" />
+      <workItem from="1564061363332" duration="7909000" />
+      <workItem from="1564079851852" duration="7639000" />
+      <workItem from="1564287115253" duration="14653000" />
+      <workItem from="1564406536682" duration="210000" />
+      <workItem from="1564464053124" duration="17988000" />
+      <workItem from="1564544348202" duration="18955000" />
+      <workItem from="1564787240748" duration="1420000" />
+      <workItem from="1564890596370" duration="15503000" />
+      <workItem from="1564977022829" duration="14237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="167276000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17019667" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../tarun_api/models/model_admin_add_sell_backup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/models/model_admin_edit_buy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/models/model_admin_edit_sell.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/models/model_admin_edit_sell_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/models/model_admin_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/models/model_admin_report_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/models/model_admin_removed_sell.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/models/model_admin_order_print.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/models/model_admin_order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/models/model_admin_send_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/models/model_admin_store.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/models/model_admin_user_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/models/model_admin_users_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <element signature="n#__construct#0;n#model_admin_users_list#0;n#!!top" />
+            <element signature="n#state_list#0;n#model_admin_users_list#0;n#!!top" />
+            <element signature="n#city_list#0;n#model_admin_users_list#0;n#!!top" />
+            <element signature="n#send_region#0;n#model_admin_users_list#0;n#!!top" />
+            <element signature="n#state_list2#0;n#model_admin_users_list#0;n#!!top" />
+            <element signature="n#city_list2#0;n#model_admin_users_list#0;n#!!top" />
+            <element signature="n#customerList#0;n#model_admin_users_list#0;n#!!top" />
+            <element signature="n#memberAccess#0;n#model_admin_users_list#0;n#!!top" />
+            <element signature="n#customerStatus#0;n#model_admin_users_list#0;n#!!top" />
+            <element signature="n#user_byid#0;n#model_admin_users_list#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/db_info.ini.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/views/admin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="66" column="36" selection-start-line="66" selection-start-column="36" selection-end-line="66" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="83" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/web/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/App.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network-marketing/guide-site.html" />
+    <entry file="file://$PROJECT_DIR$/network-marketing/policy.html" />
+    <entry file="file://$PROJECT_DIR$/network-marketing/product.html" />
+    <entry file="file://$PROJECT_DIR$/network-marketing/product-x1.html" />
+    <entry file="file://$PROJECT_DIR$/network-marketing/index1.html" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/models/model_admin_panel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-476">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/core/model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="148" column="16" lean-forward="true" selection-start-line="148" selection-start-column="16" selection-end-line="148" selection-end-column="16" />
+          <folding>
+            <element signature="n#Do_Query#0;n#model#0;n#!!top" />
+            <element signature="n#ret_error#0;n#model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/models/model_admin_products_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tarun_api/controllers/admin_products_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/web/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="n#index#0;n#users#0;n#!!top" />
+            <element signature="n#check_user_login#0;n#users#0;n#!!top" />
+            <element signature="n#user_logout#0;n#users#0;n#!!top" />
+            <element signature="n#user_register#0;n#users#0;n#!!top" />
+            <element signature="n#update_user_info#0;n#users#0;n#!!top" />
+            <element signature="n#orders#0;n#users#0;n#!!top" />
+            <element signature="n#favorites#0;n#users#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/model_users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="80" column="41" selection-start-line="80" selection-start-column="41" selection-end-line="80" selection-end-column="41" />
+          <folding>
+            <element signature="n#check_user_login#0;n#model_users#0;n#!!top" />
+            <element signature="n#update_user_info#0;n#model_users#0;n#!!top" />
+            <element signature="n#get_orders#0;n#model_users#0;n#!!top" />
+            <element signature="n#add_basket#0;n#model_users#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/important codes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/web/assets/css/font.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/web/assets/css/network-styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="772">
+          <caret line="1012" column="25" selection-start-line="1012" selection-start-column="25" selection-end-line="1012" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="27" column="35" lean-forward="true" selection-end-line="1162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test/test isset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="208" column="31" lean-forward="true" selection-start-line="208" selection-start-column="31" selection-end-line="208" selection-end-column="31" />
+          <folding>
+            <element signature="n#state_list2#0;n#model#0;n#!!top" />
+            <element signature="n#city_list2#0;n#model#0;n#!!top" />
+            <element signature="n#user_all_access#0;n#model#0;n#!!top" />
+            <element signature="n#check_access#0;n#model#0;n#!!top" />
+            <element signature="n#show_new_comments#0;n#model#0;n#!!top" />
+            <element signature="n#show_new_employ#0;n#model#0;n#!!top" />
+            <element signature="n#show_new_resume#0;n#model#0;n#!!top" />
+            <element signature="n#Do_Select#0;n#model#0;n#!!top" />
+            <element signature="n#ip#0;n#model#0;n#!!top" />
+            <element signature="n#set_function_log#0;n#model#0;n#!!top" />
+            <element signature="n#check_login#0;n#model#0;n#!!top" />
+            <element signature="n#session_set#0;n#model#0;n#!!top" />
+            <element signature="n#str_cod#0;n#model#0;n#!!top" />
+            <element signature="n#session_check#0;n#model#0;n#!!top" />
+            <element signature="n#password_hash#0;n#model#0;n#!!top" />
+            <element signature="n#password_verify#0;n#model#0;n#!!top" />
+            <element signature="n#time_to_jalali_date#0;n#model#0;n#!!top" />
+            <element signature="n#gregorian_to_jalali#0;n#model#0;n#!!top" />
+            <element signature="n#convert_date#0;n#model#0;n#!!top" />
+            <element signature="n#sub_text#0;n#model#0;n#!!top" />
+            <element signature="n#zarinpalRequest#0;n#model#0;n#!!top" />
+            <element signature="n#zarinpalVerify#0;n#model#0;n#!!top" />
+            <element signature="n#get_options#0;n#model#0;n#!!top" />
+            <element signature="n#get_bout_us#0;n#model#0;n#!!top" />
+            <element signature="n#get_social#0;n#model#0;n#!!top" />
+            <element signature="n#get_services#0;n#model#0;n#!!top" />
+            <element signature="n#seen_pages#0;n#model#0;n#!!top" />
+            <element signature="n#getNumberTitle#0;n#model#0;n#!!top" />
+            <element signature="n#captcha_cod#0;n#model#0;n#!!top" />
+            <element signature="n#rrmdir#0;n#model#0;n#!!top" />
+            <element signature="n#creat_thumbnail#0;n#model#0;n#!!top" />
+            <element signature="n#send_sms#0;n#model#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/api_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/api_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+          <folding>
+            <element signature="n#android_register#0;n#api_user#0;n#!!top" />
+            <element signature="n#android_get_token#0;n#api_user#0;n#!!top" />
+            <element signature="n#android_get_user_info#0;n#api_user#0;n#!!top" />
+            <element signature="n#android_user_info#0;n#api_user#0;n#!!top" />
+            <element signature="n#android_user_login#0;n#api_user#0;n#!!top" />
+            <element signature="n#android_forget_password#0;n#api_user#0;n#!!top" />
+            <element signature="n#android_reset_password#0;n#api_user#0;n#!!top" />
+            <element signature="n#Update_Info#0;n#api_user#0;n#!!top" />
+            <element signature="n#api_logout#0;n#api_user#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/model_index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="n#seen_page#0;n#model_index#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/web/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="n#save_idea_employ#0;n#index#0;n#!!top" />
+            <element signature="n#seen_page#0;n#index#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network-marketing-final/loginpage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="167" column="13" selection-start-line="167" selection-start-column="13" selection-end-line="167" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/network-marketing-final/policy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="191" column="9" selection-start-line="191" selection-start-column="9" selection-end-line="191" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/web/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/model_api_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="140" column="37" selection-start-line="140" selection-start-column="37" selection-end-line="140" selection-end-column="37" />
+          <folding>
+            <element signature="n#__construct#0;n#model_api_user#0;n#!!top" />
+            <element signature="e#209#250#0#PHP" />
+            <element signature="n#android_register#0;n#model_api_user#0;n#!!top" />
+            <element signature="n#android_get_token#0;n#model_api_user#0;n#!!top" />
+            <element signature="n#android_get_user_info#0;n#model_api_user#0;n#!!top" />
+            <element signature="n#android_user_login#0;n#model_api_user#0;n#!!top" />
+            <element signature="e#6382#8159#0#PHP" />
+            <element signature="n#android_forget_password#0;n#model_api_user#0;n#!!top" />
+            <element signature="n#android_reset_password#0;n#model_api_user#0;n#!!top" />
+            <element signature="n#set_logout_log#0;n#model_api_user#0;n#!!top" />
+            <element signature="n#check_login#0;n#model_api_user#0;n#!!top" />
+            <element signature="n#android_register_users#0;n#model_api_user#0;n#!!top" />
+            <element signature="n#getHttpStatusMessage#0;n#model_api_user#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/model_api_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="51" column="44" lean-forward="true" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+          <folding>
+            <element signature="n#__construct#0;n#model_api_product#0;n#!!top" />
+            <element signature="n#get_product_list#0;n#model_api_product#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/web/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#form#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#0;n#section#0;n#section#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/web/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/model_admin_video.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

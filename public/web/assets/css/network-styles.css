@@ -1,0 +1,2184 @@
+/******** public style ***************/
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    font-family: iransans;
+}
+
+.fonts {
+    font-family: iransans;
+    overflow-x: hidden;
+}
+
+.hd, h1, h2, h3, h4, h5, h6, p, span, ul {
+    font-family: iransans;
+}
+
+.rtl {
+
+    direction: rtl;
+}
+
+.spaces {
+
+    height: 100px;
+    width: 100%;
+}
+
+.spaces-top {
+
+    height: 30px;
+    width: 100%;
+}
+
+/***************** index or select pages ****************/
+
+.bckgrd {
+
+    background-image: url(../image/backgrnd1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.bckgrd h1 {
+
+    color: #eeeeee;
+    margin-top: 50px;
+}
+
+.selectlinks {
+
+    text-decoration: none;
+}
+
+.selectlinks:hover {
+
+    text-decoration: none;
+}
+
+.network-marketing {
+
+    background-color: #2d71c1;
+    margin: auto;
+    margin-top: 30px;
+    padding: 60px;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: 8px 8px 8px #444;
+}
+
+.Pointwise-marketing {
+
+    background-color: maroon;
+    margin: auto;
+    margin-top: 30px;
+    padding: 60px;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: 8px 8px 8px #444;
+}
+
+.product-us {
+
+    background-color: darkorange;
+    margin: auto;
+    margin-top: 30px;
+    padding: 60px;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    box-shadow: 8px 8px 8px #444;
+}
+
+.network-marketing:hover {
+
+    background-color: #009ddd;
+}
+
+.Pointwise-marketing:hover {
+
+    background-color: #600000;
+}
+
+.product-us:hover {
+
+    background-color: #dd6a00;
+}
+
+
+/************************* product page ****************************/
+
+
+.topic-x {
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkorange;
+    border-radius: 10px;
+    background-color: #ffcc99;
+    color: #555555;
+    width: 100%;
+    padding: 10px;
+
+}
+
+.topic-x h3 {
+
+
+    text-align: center;
+    background-color: darkorange;
+    color: white;
+    line-height: 2;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+
+.product-exter {
+
+    border-style: solid;
+    background-color: white;
+    border-width: 1px;
+    border-color: darkorange;
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 2px 2px 4px #888;
+}
+
+.product-image {
+
+    width: 100%;
+    height: 250px;
+
+}
+
+.product-image img {
+
+    width: 100%;
+    height: 100%;
+}
+
+.prices {
+
+    color: maroon;
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+.addtobag {
+
+    background-color: darkorange;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    padding: 5px;
+    padding-top: 10px;
+    border-radius: 10px;
+
+}
+
+.addtobag:hover {
+
+    background-color: #dd6a00;
+    color: white;
+    text-decoration: none;
+
+
+}
+
+.product-caption a:hover {
+
+    text-decoration: none;
+}
+
+
+.product-exter .golden {
+
+
+    margin-top: -70px;
+    /**visibility: hidden;**/
+    height: 70px;
+    width: 70px;
+
+
+}
+
+.product-exter:hover .golden {
+
+    margin-top: -70px;
+    transition: 1s;
+
+}
+
+.product-exter:hover {
+
+    box-shadow: 3px 3px 6px #777;
+    cursor: pointer;
+}
+
+.golden img {
+
+    height: 100%;
+    width: 100%;
+}
+
+.gldtxt {
+
+    color: white;
+    text-align: center;
+    margin-top: -33px;
+    margin-left: 2px;
+
+}
+
+
+.product-exter .bookmarkes {
+
+
+    margin-top: -280px;
+    /**visibility: hidden;**/
+    height: 70px;
+    width: 70px;
+    margin-left: 75%;
+
+
+}
+
+.product-exter:hover .bookmarkes {
+
+    margin-top: -260px;
+    transition: 1s;
+
+}
+
+.product-exter .bookmarkes:hover {
+
+
+    width: 85px;
+}
+
+.bookmarkes img {
+
+    height: 100%;
+    width: 100%;
+}
+
+
+.seeall {
+
+    background-color: #dd6a00;
+    color: white;
+    padding: 15px;
+    margin-top: 50px;
+    width: 200px;
+    border-radius: 20px;
+
+
+}
+
+.seeall:hover {
+
+    background-color: darkorange;
+}
+
+.seeallink:hover {
+
+    text-decoration: none;
+
+
+}
+
+.vote-to-post {
+
+
+    float: left;
+
+}
+
+.like-post {
+
+    margin: 5px;
+    border: 1px solid;
+    padding: 12px 5px 5px;
+
+    color: #aaa;
+
+
+}
+
+/********* accordion *********/
+
+.accordion {
+
+    cursor: pointer;
+    transition: 1s;
+    width: 100%;
+    margin-top: 30px;
+
+}
+
+
+.panel {
+
+
+    background-color: #f1f1f1;
+    display: none;
+    overflow: hidden;
+}
+
+.clickme-plz {
+
+    background-color: #ffcc99;
+    color: white;
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+    float: right;
+    padding: 12px;
+    margin-top: -54px;
+    margin-right: 5px;
+}
+
+.clickme-plz:hover {
+
+    background-color: darkorange;
+}
+
+
+/*********** pointwise marketing page ******************/
+
+.about-point {
+
+    padding: 10px;
+}
+
+.about-point h1 {
+
+    text-align: justify;
+    color: maroon;
+
+}
+
+.about-point p {
+
+    text-align: justify;
+    line-height: 2;
+
+}
+
+.selsect-package {
+
+    padding: 10px;
+}
+
+.selsect-package h2 {
+
+    color: maroon;
+
+}
+
+.pts-head1 {
+
+
+    display: inline-block;
+    float: right;
+    width: 50%;
+    margin-right: 20px;
+}
+
+.pts-head2 {
+
+
+    display: inline-block;
+    float: left;
+    width: 50%;
+}
+
+.selsect-package hr {
+
+    border-color: maroon;
+}
+
+.selsect-package h4 {
+
+    text-align: justify;
+    line-height: 2;
+}
+
+
+/*** packages**/
+
+.level-up-package {
+
+    width: 100%;
+    height: 250px;
+    margin-top: 30px;
+    cursor: pointer;
+
+
+}
+
+.level-up-package img {
+
+    height: 100%;
+    width: 100%;
+}
+
+.start-pack {
+
+    background-color: green;
+    color: white;
+    padding: 10px 10px;
+    width: 40%;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px #888;
+    cursor: pointer;
+}
+
+.start-pack:hover {
+
+    background-color: forestgreen;
+
+}
+
+.start-package a:hover {
+
+    text-decoration: none;
+}
+
+
+.txt-on-lvl {
+
+    margin-top: -140px;
+    text-align: center;
+    font-size: 17px;
+
+}
+
+
+/****** alerts **************/
+
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.85); /* Black w/ opacity */
+
+}
+
+/* Modal Content */
+.modal-content {
+    position: relative;
+    background-color: rgba(256, 256, 256, 0.97);
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.7s;
+    animation-name: animatetop;
+    animation-duration: 0.7s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {
+        top: -300px;
+        opacity: 0
+    }
+    to {
+        top: 0;
+        opacity: 1
+    }
+}
+
+@keyframes animatetop {
+    from {
+        top: -300px;
+        opacity: 0
+    }
+    to {
+        top: 0;
+        opacity: 1
+    }
+}
+
+/* The Close Button */
+.close {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-header {
+    padding: 2px 16px;
+    background-color: maroon;
+    color: white;
+}
+
+.modal-body {
+
+    padding: 20px 30px;
+    position: relative;
+
+}
+
+.modal-texts h3 {
+
+    margin-top: 20px;
+    position: relative;
+}
+
+.modal-footer {
+    padding: 2px 16px;
+    background-color: maroon;
+    height: 20px;
+    color: white;
+}
+
+
+/** show package **/
+
+.show-package {
+
+    width: 60%;
+    margin: auto;
+    position: relative;
+}
+
+.show-package img {
+
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.how-many {
+
+    margin-top: -55%;
+    margin-right: 43%;
+    font-size: 20px;
+    text-align: center;
+    position: absolute;
+}
+
+.how-many2 {
+
+    color: maroon;
+}
+
+.what-percent {
+
+    margin-top: -40%;
+    margin-right: 45%;
+    text-align: center;
+    position: absolute;
+}
+
+.what-percent2 {
+
+    color: maroon;
+}
+
+/************** intpage-product page ****************************/
+
+.bag-image {
+    padding: 30px;
+    margin-top: 30px;
+    border-left-style: dotted;
+    border-width: 1px;
+    border-color: orange;
+}
+
+.bag-text {
+    padding: 15px;
+}
+
+.bag-text a:hover {
+
+    text-decoration: none;
+}
+
+.shadow-text {
+
+    color: #999;
+}
+
+.zarib-of-product {
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: goldenrod;
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.zrb-txt {
+
+    width: 70%;
+    height: 70%;
+    color: #999;
+    margin-top: 7px;
+    display: inline-block;
+    text-align: center;
+    float: right;
+    color: goldenrod;
+    line-height: 2;
+}
+
+.zrb {
+
+
+    background-color: goldenrod;
+    color: white;
+    text-align: center;
+    line-height: 2;
+    width: 20%;
+    height: 70%;
+    margin-left: 10px;
+    margin-top: 7px;
+    display: inline-block;
+    float: left;
+    border-radius: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #999;
+
+}
+
+
+.propertys li {
+
+    color: #555;
+    margin-top: 5px;
+}
+
+.price-of-pro {
+
+    color: #aa0000;
+    font-size: 30px;
+}
+
+/** slider intpage **/
+
+* {
+    box-sizing: border-box;
+}
+
+.show-slide {
+
+    margin-top: 20px;
+}
+
+/* The grid: Four equal columns that floats next to each other */
+.column1 {
+    float: left;
+    width: 25%;
+    padding: 10px;
+    margin-top: 100px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: darkorange;
+}
+
+/* Style the images inside the grid */
+.column1 img {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.column1 img:hover {
+    opacity: 1;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* The expanding image container */
+.container {
+    position: relative;
+
+}
+
+/* Expanding image text */
+#imgtext {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+/*****************/
+
+.text-more {
+
+    margin-top: 20px;
+    padding-top: 30px;
+    border-top-style: dotted;
+    border-width: 1px;
+    border-color: darkorange;
+}
+
+.text-more p {
+
+    line-height: 2;
+    text-align: justify;
+    color: #555;
+}
+
+
+/************** bage-sell **********************/
+
+.bagbag {
+
+    padding: 5px;
+
+}
+
+.see-price {
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ccc;
+    box-shadow: 3px 3px 6px #ccc;
+    background-color: white;
+    overflow: hidden;
+    padding-bottom: 30px;
+    padding-right: 5px;
+    padding-left: 5px;
+
+
+}
+
+.seen-image {
+
+    padding: 15px;
+
+
+}
+
+.img-of-pro {
+
+    height: 120px;
+    width: 140px;
+    margin: auto;
+
+
+}
+
+.img-of-pro img {
+
+    height: 100%;
+    width: 100%;
+}
+
+.seen-name {
+
+    padding: 20px;
+}
+
+.seen-name h5 {
+
+    color: #666;
+}
+
+.seen-cost {
+
+    padding: 20px;
+}
+
+
+/****************/
+
+.ex-code-int {
+
+    margin: 20px;
+
+}
+
+.introduce-code {
+
+    color: #aa0000;
+}
+
+.input-code {
+
+    margin-top: 10px;
+    width: 100%;
+    padding: 10px 5px;
+
+}
+
+.submit-code {
+
+    background-color: #aa0000;
+    color: white;
+    padding: 10px 4px;
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.submit-code:hover {
+
+    background-color: #800000;
+
+}
+
+.submit-code-net {
+
+    background-color: #2d71c1;
+    color: white;
+    padding: 10px 4px;
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.submit-code-net:hover {
+
+    background-color: #009ddd;
+
+}
+
+.link-code {
+
+    text-decoration: none;
+}
+
+.link-code:hover {
+
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/********/
+
+.final-payment {
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ccc;
+    margin-top: 20px;
+    padding: 10px;
+    box-shadow: 3px 3px 6px #ccc;
+    background-color: white;
+
+}
+
+.submit-payment {
+
+    background-color: #2cbfdd;
+    color: white;
+    padding: 10px 4px;
+    margin-top: 30px;
+    border-radius: 10px;
+    width: 40%;
+    margin-right: 30%;
+}
+
+.submit-payment:hover {
+
+    background-color: #0a9dbb;
+
+}
+
+.accept-policy {
+
+    margin-top: 30px;
+}
+
+.accept-policy input[type=checkbox] {
+
+    height: 25px;
+    width: 25px;
+    cursor: pointer;
+    margin-top: auto;
+
+
+}
+
+.checkaccept {
+
+    margin-right: 35px;
+    color: #555;
+
+}
+
+.checkaccept:hover {
+
+    text-decoration: none;
+    color: maroon;
+}
+
+.heading-pay {
+
+    color: #777;
+    font-size: 24px;
+
+}
+
+/*** address-bar**/
+
+.address-bar {
+
+    box-shadow: 3px 3px 6px #ccc;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ccc;
+    padding: 20px;
+    background-color: white;
+
+}
+
+.address-bar p {
+
+    line-height: 2;
+    text-align: justify;
+}
+
+.address-bar h4 {
+
+    line-height: 2;
+    text-align: justify;
+}
+
+.address-bar h5 {
+
+    line-height: 2;
+    text-align: justify;
+}
+
+.recived-person {
+
+    font-weight: bold;
+
+}
+
+.edit-address {
+
+    color: #2cbfdd;
+    border-bottom: dotted;
+
+}
+
+.edit-address:hover {
+
+    color: #0a9dbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+/****************************************** login page *******************************************/
+
+.bglog {
+    background-image: url(../image/backgrnd1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding-bottom: 25px;
+}
+
+/* Style the tab */
+.tab {
+    overflow: hidden;
+
+
+}
+
+/* Style the buttons inside the tab */
+
+
+.tab .dok {
+
+    background-color: #999;
+    width: 40%;
+    cursor: pointer;
+    color: white;
+    border-radius: 10px;
+    padding: 14px 16px;
+    display: inline-block;
+}
+
+.tab .dok1 {
+
+    background-color: #999;
+    width: 40%;
+    cursor: pointer;
+    color: white;
+    border-radius: 10px;
+    padding: 14px 16px;
+    display: inline-block;
+}
+
+.dok:hover {
+
+    background-color: #bbb;
+}
+
+.dok1:hover {
+
+    background-color: #bbb;
+}
+
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+
+}
+
+.activelog {
+
+    display: block;
+
+}
+
+.active-form {
+
+    background-color: #9b1c51 !important;
+}
+
+
+.login {
+
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.quizform {
+
+    border-radius: 10px;
+    background-color: #333;
+    background-color: rgba(256, 256, 256, 0.3);
+    margin: 5%;
+    padding: 10%;
+}
+
+/*** form ***/
+
+.quizform input[type=text],
+textarea {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    resize: vertical;
+    direction: rtl;
+}
+
+.quizform input[type=password],
+textarea {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    resize: vertical;
+    direction: rtl;
+}
+
+.quizform input[type=submit] {
+    background-color: #2d71c1;
+    color: white;
+    padding: 15px 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    display: inline-block;
+
+}
+
+
+.quizform input[type=submit]:hover {
+    background-color: #4f93e3;
+
+
+}
+
+quizform form {
+
+    right: 0;
+    margin-bottom: 5%;
+}
+
+.quizform a {
+
+    margin-top: 30px;
+}
+
+.forget-pass {
+
+    cursor: pointer;
+    border-bottom: solid;
+    border-width: 1px;
+}
+
+
+/****** policy page ************************/
+
+.policy h1 {
+
+    color: maroon;
+
+}
+
+.policy h3 {
+
+    color: maroon;
+
+}
+
+.policy hr {
+
+    border-color: maroon;
+
+}
+
+.policy p {
+
+    text-align: justify;
+    line-height: 3;
+
+}
+
+/****** about-us page ************************/
+
+.about-us h1 {
+
+    color: #2cbfdd;
+
+}
+
+.about-us h3 {
+
+    color: #2cbfdd;
+
+}
+
+.about-us hr {
+
+    border-color: #2cbfdd;
+
+}
+
+.about-us p {
+
+    text-align: justify;
+    line-height: 3;
+
+}
+
+.about-img {
+
+    width: 60%;
+    margin-right: 20%;
+    margin-top: 15%;
+
+}
+
+.about-img img {
+
+    width: 100%;
+    height: 100%;
+}
+
+
+/*************************** networking page *********************/
+
+.about-net h1 {
+
+    color: #2d71c1;
+}
+
+.about-net h2 {
+
+    color: #2d71c1;
+}
+
+.about-net hr {
+
+    border-color: #2d71c1;
+}
+
+.about-net p {
+
+    text-align: justify;
+
+}
+
+
+.view-net {
+
+    margin-top: 50px;
+    width: 40%;
+    margin-left: 30%;
+    border-right-style: solid;
+    border-color: #bbb;
+    margin-bottom: 100px;
+
+
+}
+
+.my-collection {
+}
+
+.first-sub-coll-pre {
+
+    margin-top: 50px;
+    position: relative;
+    right: -60%;
+}
+
+.first-sub-coll {
+
+
+    margin-top: 50px;
+    position: relative;
+    right: -60%;
+}
+
+.sub-coll {
+
+    border-top-style: solid;
+    border-color: #bbb;
+    margin-top: 30px;
+
+}
+
+.first-coll {
+
+    color: maroon;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: maroon;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px 10px;
+    width: 85%;
+    background-color: white;
+    margin-top: -20px;
+}
+
+.first-coll-pre {
+
+    color: #aaa;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #aaa;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px 10px;
+    width: 85%;
+    background-color: white;
+    margin-top: -20px;
+}
+
+.first-coll-pre:hover {
+
+    background-color: #aaa;
+    color: white;
+    cursor: pointer;
+}
+
+.coll {
+
+    color: #2d71c1;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #2d71c1;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 5px 10px;
+    width: 85%;
+    background-color: white;
+    margin-top: -20px;
+
+}
+
+.coll:hover {
+
+    background-color: #2d71c1;
+    color: white;
+    cursor: pointer;
+    margin-top: -30px;
+    margin-left: -20px;
+    transition: 0.7s;
+}
+
+.my-collection:hover {
+
+    text-decoration: none;
+}
+
+.my-code {
+
+    color: maroon !important;
+}
+
+
+.my-info {
+
+
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: #888;
+    box-shadow: 2px 2px 4px #888;
+    margin-top: 10px;
+    padding: 20px;
+    line-height: 2;
+}
+
+.my-info h5 {
+    line-height: 2;
+}
+
+.my-info h4 {
+
+    line-height: 2;
+}
+
+.number-of-coll {
+
+    color: #2d71c1;
+    font-size: 20px;
+}
+
+.soccor {
+
+    color: maroon;
+    font-size: 20px;
+}
+
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.85); /* Black w/ opacity */
+
+}
+
+/* Modal Content */
+.modal-content {
+    position: relative;
+    background-color: rgba(256, 256, 256, 0.97);
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 50%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.7s;
+    animation-name: animatetop;
+    animation-duration: 0.7s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {
+        top: -300px;
+        opacity: 0
+    }
+    to {
+        top: 0;
+        opacity: 1
+    }
+}
+
+@keyframes animatetop {
+    from {
+        top: -300px;
+        opacity: 0
+    }
+    to {
+        top: 0;
+        opacity: 1
+    }
+}
+
+/* The Close Button */
+.close {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-header {
+    padding: 2px 16px;
+    background-color: maroon;
+    color: white;
+}
+
+.modal-body {
+
+    padding: 20px 30px;
+    position: relative;
+
+}
+
+.modal-texts h3 {
+
+    margin-top: 20px;
+    position: relative;
+}
+
+.modal-footer {
+    padding: 2px 16px;
+    background-color: maroon;
+    height: 20px;
+    color: white;
+}
+
+
+.yes-Im-sure {
+
+    background-color: forestgreen;
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.yes-Im-sure:hover {
+
+    background-color: green;
+}
+
+.no-sure {
+
+    background-color: red;
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    cursor: pointer;
+
+}
+
+.no-sure:hover {
+
+    background-color: maroon;
+}
+
+.num-of-num {
+
+
+}
+
+
+/********************* profile page ****************************/
+
+.profile-contents {
+    margin-top: 30px;
+
+}
+
+.put-profile {
+
+    padding: 5%;
+    margin: 5%;
+}
+
+/*** form ***/
+
+.put-profile input[type=text],
+textarea {
+    width: 90%;
+    padding: 8px;
+    border: 1px solid #aaa;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    resize: vertical;
+    direction: rtl;
+}
+
+.put-profile input[type=password],
+textarea {
+    width: 90%;
+    padding: 8px;
+    border: 1px solid #aaa;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    resize: vertical;
+    direction: rtl;
+}
+
+.put-profile input[type=submit] {
+    background-color: #2cbfdd;
+    width: 90%;
+    color: white;
+    padding: 8px 8px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+    display: inline-block;
+
+
+}
+
+
+.put-profile input[type=submit]:hover {
+    background-color: #0a9dbb;
+
+
+}
+
+.put-profile .alert-danger {
+
+    text-align: center;
+}
+
+
+.upload {
+
+    width: 70%;
+    margin-bottom: 50px;
+    color: #888;
+
+
+}
+
+
+.img-upload {
+
+    height: 50px;
+    width: 50px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 1px;
+}
+
+.img-upload img {
+
+    height: 100%;
+    width: 100%;
+}
+
+.browse {
+
+    background-color: #2d71c1;
+    padding: 5px 5px;
+    color: white;
+    cursor: pointer;
+    width: 80px;
+    border-radius: 10px;
+    float: left;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.should-fill {
+    color: red;
+    display: inline-flex;
+    margin-top: -10px;
+}
+
+/**************** contact-us page ***************************/
+
+.back-of-contact {
+    background-image: url(../image/contctuuuus.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.contact-us-cap {
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 50px;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 0 0 10px 10px;
+    color: #ddd;
+    padding: 20px;
+
+
+}
+
+.contact-us-cap h4 {
+    border-bottom: solid;
+    border-width: 1px;
+    border-color: #2cbfdd;
+    padding: 10px;
+}
+
+.contact-us-cap p {
+
+    line-height: 2;
+    text-align: justify;
+}
+
+.contact-number {
+
+    width: 80%;
+    height: 200px;
+    margin: auto;
+    border-style: solid;
+    border-color: #2cbfdd;
+    border-width: 1px;
+    border-radius: 10px;
+    margin-top: 20px;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.img-contact {
+    margin: 20px auto;
+}
+
+/****************************** question page *******************************/
+
+
+.question-sec {
+
+    padding: 10px;
+    border-bottom-style: dotted;
+    border-color: #ccc;
+}
+
+.question-bar {
+
+    color: #2cbfdd;
+}
+
+.answer-bar {
+
+    color: gray;
+    text-align: justify;
+    line-height: 2;
+}
+
+/************** guide page *************************************************/
+
+.guide-site {
+    text-align: justify;
+    line-height: 2;
+}
+
+.guide-section {
+    padding: 10px;
+    margin-top: 30px;
+
+}
+
+/************************ news page ***********************************/
+
+
+.clickart {
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: #2cbfdd;
+    border-radius: 5px;
+    margin: 3%;
+    margin-top: 20px;
+    padding: 5%;
+    box-shadow: 2px 2px 5px silver;
+
+
+}
+
+.imgart {
+
+    height: 130px;
+    width: 80%;
+    border-style: solid;
+    border-radius: 4px;
+    border-width: 1px;
+    padding: 2px;
+    margin-right: 10%;
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+
+.imgart img {
+
+    width: 100%;
+    height: 100%;
+}
+
+.textart {
+
+    overflow: hidden;
+    height: 200px;
+}
+
+.textart p {
+
+    text-align: justify;
+    line-height: 1.7;
+
+}
+
+.textart1 .readme {
+
+
+    background-color: #2cbfdd;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 18px;
+    color: white;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.textart1 .readme:hover {
+
+
+    background-color: #0a9dbb;
+    border: none;
+    color: white;
+
+}
+
+
+.heading_art {
+
+    color: #2cbfdd;
+    font-size: 18px;
+}
+
+/********************** int-page-news *************************************/
+
+
+.topic {
+
+    margin-top: 50px;
+    border-bottom-style: dotted;
+    border-color: #2cbfdd;
+    padding: 20px;
+}
+
+.intimg {
+
+    width: 100%;
+    height: 250px;
+    margin: auto;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    padding: 2px;
+
+
+}
+
+.intimg img {
+
+    width: 100%;
+    height: 100%;
+
+
+}
+
+
+.headline h1 {
+
+    font-size: 24px;
+    color: #2cbfdd;
+}
+
+.headline p {
+
+    line-height: 2;
+    text-align: justify;
+    margin-top: 30px;
+}
+
+.passage p {
+
+    line-height: 2;
+    text-align: justify;
+
+}
+
+
+/*** footer ***************************************/
+
+footer {
+
+    background-color: #222222;
+
+
+}
+
+
+.foot {
+
+    background-color: #222222;
+    width: 90%;
+    margin-left: 5%;
+    height: auto;
+    direction: rtl;
+}
+
+
+.lists {
+
+    padding-top: 40px;
+    color: #888;
+    font-size: 12px;
+
+}
+
+.lists ul {
+    list-style-type: disc;
+}
+
+.lists li {
+    padding-top: 5px;
+}
+
+.soci {
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    margin-left: 10px;
+
+}
+
+.soci img {
+
+    height: 100%;
+    width: 100%;
+}
+
+.links {
+
+    text-decoration: none;
+    cursor: pointer;
+
+}
+
+.links:hover {
+
+    text-decoration: none;
+    opacity: 0.6;
+}
+
+.textfoot {
+
+    text-decoration: none;
+    cursor: pointer;
+    color: #888;
+    font-size: 12px;
+}
+
+.textfoot:hover {
+
+    text-decoration: none;
+    color: #2d71c1;
+}
+
+.law {
+
+    background-color: black;
+    color: #666;
+    height: 40px;
+    padding-top: 10px;
+    text-align: center;
+
+}
+
+/*** form ***/
+
+.foot input[type=text],
+textarea {
+    width: 70%;
+    padding: 8px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    resize: vertical;
+    direction: rtl;
+}
+
+.foot input[type=submit] {
+    background-color: #888;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 70%;
+    margin-top: 10px;
+    border: 1px solid white;
+}
+
+.foot input[type=submit]:hover {
+    background-color: #aaa;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    color: white;
+}
+
+.foot form {
+
+    right: 0;
+    margin-bottom: 5%;
+}
+
+.farahoosh {
+
+    color: #555;
+}
+
+.farahoosh:hover {
+
+    color: #777;
+    text-decoration: none;
+}
+
+
+/*** header *************************************************************/
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #ddd;
+    overflow: hidden;
+    direction: rtl;
+    margin-top: 0;
+    box-shadow: 2px 2px 6px #666;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: right;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 10px;
+    text-decoration: none;
+    font-size: 13px;
+    direction: rtl;
+
+}
+
+/* Add an active class to highlight the current page */
+.active {
+
+    color: #9b1c51;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+    display: none;
+}
+
+/* Dropdown container - needed to position the dropdown content */
+.dropdown1 {
+    float: right;
+    overflow: hidden;
+
+}
+
+/* Style the dropdown button to fit inside the topnav */
+.dropdown1 .dropbtn {
+    font-size: 13px;
+    border: none;
+    outline: none;
+    color: black;
+    padding: 14px 10px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+    cursor: pointer;
+
+}
+
+/* Style the dropdown content (hidden by default) */
+.dropdown-content1 {
+    display: none;
+    position: absolute;
+    background-color: #ddd;
+    min-width: 160px;
+    opacity: 0.9;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
+    z-index: 1;
+
+}
+
+/* Style the links inside the dropdown */
+.dropdown-content1 a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: right;
+
+}
+
+/* Add a red line on topnav links and the dropdown button on hover */
+.topnav a:hover,
+.dropdown1:hover .dropbtn {
+    color: #aa0000;
+    text-decoration: none;
+
+}
+
+/* Add a grey text to dropdown links on hover */
+.dropdown-content1 a:hover {
+
+    color: #aa0000;
+
+}
+
+/* Show the dropdown menu when the user moves the mouse over the dropdown button */
+.dropdown1:hover .dropdown-content1 {
+    display: block;
+}
+
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 768px) {
+
+    .topnav a:not(:first-child),
+    .dropdown1 .dropbtn {
+        display: none;
+    }
+
+    .topnav a.icon {
+        float: left;
+        display: block;
+    }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 768px) {
+    .topnav.responsive {
+        position: relative;
+    }
+
+    .topnav.responsive a.icon {
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+
+    .topnav.responsive a {
+        float: none;
+        display: block;
+        text-align: right;
+        text-decoration: none;
+    }
+
+    .topnav.responsive .dropdown1 {
+        float: none;
+        text-align: right;
+    }
+
+    .topnav.responsive .dropdown-content1 {
+        position: relative;
+        text-align: right;
+    }
+
+    .topnav.responsive .dropdown1 .dropbtn {
+        display: block;
+        width: 100%;
+        text-align: right;
+
+    }
+}
+
+.introude-code {
+
+    color: #aa0000 !important;
+    border: dotted 1px;
+    margin-top: -40px;
+    position: absolute;
+    padding: 5px;
+    margin-left: 35%;
+    direction: rtl;
+
+
+}
+
+.introude-code1 {
+    color: #aa0000;
+    border: dotted 1px;
+    margin-top: -40px;
+    margin-left: 20px;
+    padding: 5px;
+
+
+}
+
+.login-header {
+
+    color: forestgreen !important;
+
+}
+
+.login-header:hover {
+
+    color: #2d71c1 !important;
+}
+
+
+/*** end of header ****************************************/

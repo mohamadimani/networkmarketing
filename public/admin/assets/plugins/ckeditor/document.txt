@@ -1,0 +1,12 @@
+<script src="public/ckeditor/ckeditor.js"></script>
+
+
+  <textarea class="editor1" id="editor1" name="introduction"></textarea>
+
+
+
+<script>
+
+            CKEDITOR.replace('editor1', {});
+
+        </script>
